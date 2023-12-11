@@ -13,14 +13,17 @@
                 "type": "String",
                 "optional": true
               }
-            ]
+            ],
+            "description": "Configures the example-rss-hn-jobs program with optional keywords."
           },
           {
             "name": "watch",
-            "type": "Void"
+            "type": "Void",
+            "description": "Starts watching for new job listings in the example-rss-hn-jobs program."
           }
         ],
-        "fields": []
+        "fields": [],
+        "description": "Root type for the example-rss-hn-jobs program."
       }
     ]
   },
