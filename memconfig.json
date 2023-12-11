@@ -14,16 +14,16 @@
                 "optional": true
               }
             ],
-            "description": "Configures the example-rss-hn-jobs program with optional keywords."
+            "description": "Configures the rss program with optional keywords."
           },
           {
             "name": "watch",
             "type": "Void",
-            "description": "Starts watching for new job listings in the example-rss-hn-jobs program."
+            "description": "Starts watching for new job listings in the program."
           }
         ],
         "fields": [],
-        "description": "Root type for the example-rss-hn-jobs program."
+        "description": "Hacker News Jobs RSS Generator."
       }
     ]
   },
