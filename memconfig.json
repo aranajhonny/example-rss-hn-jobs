@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "jobs": "hn:items.page(page:1,pageSize:30,topic:\"job\")",
-    "rss": "membrane-program-rss:"
+    "rss": "rss:"
   }
 }
